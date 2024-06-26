@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83d61a0-1842-4422-a125-630d10c48c68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/fonts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/gitalk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/meta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/svg-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-22-create_blog_with_github_pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_gitalk.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_highlights.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_open-color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/googledb06e025310e016e.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/PicGo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/blogPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/config文件.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/fork博客.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/google分析页面.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/google站长统计.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/jekyll_error.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/jekyll_error_EASSE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/jekyll_server_erro错误2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/jekyll_server成功.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/jekyll安装.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/search_block.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/zhihuSvg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/任务管理器.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/修改仓库名称.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/创建gitalk鉴权app.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/安装ruby.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/更改名称.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/更改社交链接.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/查看netstat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/配置gittalk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2019-11-22-create_blog_with_github_pages/配置提交.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/template.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/下次一定表情宝.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/公众号.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/扫码关注.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/r-m/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/simple-jekyll-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/simple-jekyll-search.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/using_github_picgo_bed/设置图片转义.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,11 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/r-m/index.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -104,17 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/demo/r-m/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/prexxxxx.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -143,10 +93,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\personalProject\blog\prexxxxx.github.io" />
+      <recent name="E:\projects\personalProject\blog\prexxxxx.github.io\demo\r-m" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,12 +127,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719400044828</updated>
-      <workItem from="1719400046373" duration="304000" />
+      <workItem from="1719400046373" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304000" />
+    <option name="totallyTimeSpent" value="587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -205,9 +162,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
@@ -252,10 +206,24 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/r-m/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
