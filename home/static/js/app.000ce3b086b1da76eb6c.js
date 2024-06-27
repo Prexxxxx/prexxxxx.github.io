@@ -8204,13 +8204,9 @@ var ExtendRoute = function ExtendRoute(route) {
       return __WEBPACK_IMPORTED_MODULE_8_react___default.a.createElement(
         Bundle,
         { load: route.component },
-        props.location.pathname === '/login' || window.localStorage.user ? function (Comp) {
+        function (Comp) {
           return __WEBPACK_IMPORTED_MODULE_8_react___default.a.createElement(Comp, __WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_extends___default()({}, props, { routes: route.routes }));
-        } : __WEBPACK_IMPORTED_MODULE_8_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_10_react_router_dom__["b" /* Redirect */], { to: {
-            pathname: '/login',
-            state: { from: props.location }
-          }
-        })
+        }
       );
     }
   });
